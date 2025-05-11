@@ -10,12 +10,12 @@ DEFAULT_LANGUAGE = os.getenv('DEFAULT_LANGUAGE', 'en-US')
 
 # OpenAI voice names mapped to edge-tts equivalents
 voice_mapping = {
-    'alloy': 'en-US-AvaNeural',
-    'echo': 'en-US-AndrewNeural',
-    'fable': 'en-GB-SoniaNeural',
-    'onyx': 'en-US-EricNeural',
-    'nova': 'en-US-SteffanNeural',
-    'shimmer': 'en-US-EmmaNeural'
+    'alloy': 'en-US-AndrewMultilingualNeural',
+    'echo': 'en-US-BrianMultilingualNeural',
+    'fable': 'en-US-EmmaMultilingualNeural',
+    'onyx': 'zh-HK-WanLungNeural',
+    'nova': 'en-US-AvaMultilingualNeural',
+    'shimmer': 'zh-HK-HiuMaanNeural'
 }
 
 def is_ffmpeg_installed():
