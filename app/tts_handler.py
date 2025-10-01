@@ -18,13 +18,13 @@ voice_mapping = {
     'alloy': 'en-US-AndrewMultilingualNeural',
     'echo': 'en-US-BrianMultilingualNeural',
     'fable': 'en-US-EmmaMultilingualNeural',
-    'onyx': 'zh-HK-WanLungNeural',
+    'onyx': 'en-GB-ThomasNeural',
     'nova': 'en-US-AvaMultilingualNeural',
-    'shimmer': 'zh-HK-HiuMaanNeural',
+    'shimmer': 'en-GB-SoniaNeural',
     'ash': 'en-US-GuyNeural',
-    'ballad': 'en-GB-ThomasNeural',
+    'ballad': 'zh-HK-WanLungNeural',
     'coral': 'en-AU-NatashaNeural',
-    'sage': 'en-GB-SoniaNeural',
+    'sage': 'zh-HK-HiuMaanNeural',
     'verse': 'en-US-EricNeural',
 }
 
